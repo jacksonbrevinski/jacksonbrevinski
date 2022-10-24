@@ -10,5 +10,5 @@
 > - 🌱 Atualmente estou aprendendo a programar JavaScript...
 > - 💞️ Estou procurando colaborar em tudo o que for preciso...
 
-![images](https://user-images.githubusercontent.com/103933856/197515932-e7b8261b-dada-4c9b-a387-f0bf06b83756.jpg)
+> ![images](https://user-images.githubusercontent.com/103933856/197515932-e7b8261b-dada-4c9b-a387-f0bf06b83756.jpg)
 
