@@ -1,4 +1,4 @@
-Sobre Mim
+#Sobre Mim
 
 ![cruzeiro_do_sul2](https://user-images.githubusercontent.com/103933856/197508875-21d2c939-b3f2-4ed9-9cf0-6bf930027573.jpg)
 
@@ -8,3 +8,4 @@ Sobre Mim
 - 👍 Meu email de contato ẽ jackson.brevinski@escola.pr.gov.br !! ...
 - 🌱 Atualmente estou aprendendo a programar JavaScript...
 - 💞️ Estou procurando colaborar em tudo o que for preciso...
+![442-4420008_scripter-logo-graphics-hd-png-download](https://user-images.githubusercontent.com/103933856/197510647-cfbbc6ea-eec9-4716-84ab-239a8b5a2105.png)
