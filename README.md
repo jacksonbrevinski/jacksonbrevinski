@@ -10,6 +10,6 @@
 > - 🌱 Atualmente estou aprendendo a programar JavaScript...
 > - 💞️ Estou procurando colaborar em tudo o que for preciso...
 >
-> ![LiveWarlikeCat-size_restricted](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhotz-hacker-anonymous-mask-gif-16447135&psig=AOvVaw1d7QuJxPCYF7vrImfEI9Gm&ust=1669113346593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi_4vqJv_sCFQAAAAAdAAAAABAd)
+> ![LiveWarlikeCat-size_restricted](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYqmpKCAX_MECQO--qOwSo7z8IDLK2D7Xgw&usqp=CAU)
 
 
