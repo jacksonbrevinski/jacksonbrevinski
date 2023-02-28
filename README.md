@@ -13,5 +13,7 @@
 > - 💞️ Estou procurando colaborar em tudo o que for preciso...
 >
 > ![LiveWarlikeCat-size_restricted](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYqmpKCAX_MECQO--qOwSo7z8IDLK2D7Xgw&usqp=CAU)
-
-
+>
+># patriota
+>
+>![LiveWarlikeCat-size_restricted](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRug0lN-n1fWaoT6-eL-QFGqMAwK3e0C81NAg&usqp=CAU)
