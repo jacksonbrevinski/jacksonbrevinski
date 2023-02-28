@@ -13,8 +13,4 @@
 > - 💞️ Estou procurando colaborar em tudo o que for preciso...
 >
 > ![LiveWarlikeCat-size_restricted](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYqmpKCAX_MECQO--qOwSo7z8IDLK2D7Xgw&usqp=CAU)
->
-># PARTIOTA
->
-> ![LiveWarlikeCat-size_restricted](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqIEXP9hhqcKbYf9G2PtTEEyt6AwL5cDtjQ&usqp=CAU)
-> 
+
