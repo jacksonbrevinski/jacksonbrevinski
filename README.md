@@ -12,6 +12,6 @@
 > -  Atualmente estou aprendendo a programar JavaScript...
 > -  Estou procurando colaborar em tudo o que for preciso...
 >
-> ![LiveWarlikeCat-size_restricted](![image](https://github.com/jacksonbrevinski/jacksonbrevinski/assets/103933856/000398e8-ec3f-4647-bb66-fd7af0aff4e0)
+> ![LiveWarlikeCat-size_restricted]()
 )
 
